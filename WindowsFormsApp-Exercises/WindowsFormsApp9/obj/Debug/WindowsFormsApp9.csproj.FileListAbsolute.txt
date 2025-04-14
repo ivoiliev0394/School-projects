@@ -1,0 +1,10 @@
+E:\daswkalo\IT\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+E:\daswkalo\IT\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+E:\daswkalo\IT\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+E:\daswkalo\IT\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb

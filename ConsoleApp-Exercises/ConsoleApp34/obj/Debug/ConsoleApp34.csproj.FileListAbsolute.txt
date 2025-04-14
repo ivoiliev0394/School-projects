@@ -1,0 +1,14 @@
+E:\daswkalo\IT\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+E:\daswkalo\IT\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+E:\daswkalo\IT\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+E:\daswkalo\IT\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+E:\daswkalo\IT\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+E:\daswkalo\IT\Нова папка (2)\Нова папка\ConsoleApp34\obj\Debug\ConsoleApp34.pdb

@@ -1,0 +1,22 @@
+E:\daswkalo\IT\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+E:\daswkalo\IT\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+E:\daswkalo\IT\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+E:\daswkalo\IT\ConsoleApp36\obj\Debug\ConsoleApp36.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+E:\daswkalo\IT\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.csprojAssemblyReference.cache
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp36\obj\Debug\ConsoleApp36.pdb

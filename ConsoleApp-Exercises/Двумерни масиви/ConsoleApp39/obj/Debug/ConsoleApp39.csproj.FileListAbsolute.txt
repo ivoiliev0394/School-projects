@@ -1,0 +1,22 @@
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe.config
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.pdb
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csprojAssemblyReference.cache
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.exe
+E:\daswkalo\IT\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.pdb
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe.config
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.pdb
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.AssemblyReference.cache
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.CoreCompileInputs.cache
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.exe
+D:\SCHOOL\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe.config
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\bin\Debug\ConsoleApp39.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp39\obj\Debug\ConsoleApp39.pdb

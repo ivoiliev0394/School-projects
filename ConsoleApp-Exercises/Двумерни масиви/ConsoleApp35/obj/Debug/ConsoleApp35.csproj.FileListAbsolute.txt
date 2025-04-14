@@ -1,0 +1,22 @@
+E:/daswkalo/IT/ConsoleApp35/bin/Debug/ConsoleApp35.exe.config
+E:/daswkalo/IT/ConsoleApp35/bin/Debug/ConsoleApp35.exe
+E:/daswkalo/IT/ConsoleApp35/bin/Debug/ConsoleApp35.pdb
+E:/daswkalo/IT/ConsoleApp35/obj/Debug/ConsoleApp35.csprojAssemblyReference.cache
+E:/daswkalo/IT/ConsoleApp35/obj/Debug/ConsoleApp35.csproj.CoreCompileInputs.cache
+E:/daswkalo/IT/ConsoleApp35/obj/Debug/ConsoleApp35.exe
+E:/daswkalo/IT/ConsoleApp35/obj/Debug/ConsoleApp35.pdb
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/bin/Debug/ConsoleApp35.exe.config
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/bin/Debug/ConsoleApp35.exe
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/bin/Debug/ConsoleApp35.pdb
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/obj/Debug/ConsoleApp35.csproj.AssemblyReference.cache
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/obj/Debug/ConsoleApp35.csproj.CoreCompileInputs.cache
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/obj/Debug/ConsoleApp35.exe
+/Users/ivo.assassinate/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/Двумерни масиви/ConsoleApp35/obj/Debug/ConsoleApp35.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\Двумерни масиви\ConsoleApp35\obj\Debug\ConsoleApp35.pdb

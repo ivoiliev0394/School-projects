@@ -1,0 +1,14 @@
+E:\daswkalo\IT\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+E:\daswkalo\IT\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+E:\daswkalo\IT\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+E:\daswkalo\IT\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+E:\daswkalo\IT\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
+D:\daswkalo\Информатика\11кл\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+D:\daswkalo\Информатика\11кл\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+D:\daswkalo\Информатика\11кл\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+D:\daswkalo\Информатика\11кл\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+D:\daswkalo\Информатика\11кл\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+D:\daswkalo\Информатика\11кл\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+D:\daswkalo\Информатика\11кл\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

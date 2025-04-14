@@ -1,0 +1,14 @@
+E:/daswkalo/IT/ConsoleApp43/bin/Debug/ConsoleApp43.exe.config
+E:/daswkalo/IT/ConsoleApp43/bin/Debug/ConsoleApp43.exe
+E:/daswkalo/IT/ConsoleApp43/bin/Debug/ConsoleApp43.pdb
+E:/daswkalo/IT/ConsoleApp43/obj/Debug/ConsoleApp43.csprojAssemblyReference.cache
+E:/daswkalo/IT/ConsoleApp43/obj/Debug/ConsoleApp43.csproj.CoreCompileInputs.cache
+E:/daswkalo/IT/ConsoleApp43/obj/Debug/ConsoleApp43.exe
+E:/daswkalo/IT/ConsoleApp43/obj/Debug/ConsoleApp43.pdb
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/bin/Debug/ConsoleApp43.exe.config
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/bin/Debug/ConsoleApp43.exe
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/bin/Debug/ConsoleApp43.pdb
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/obj/Debug/ConsoleApp43.csproj.AssemblyReference.cache
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/obj/Debug/ConsoleApp43.csproj.CoreCompileInputs.cache
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/obj/Debug/ConsoleApp43.exe
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/ConsoleApp43/obj/Debug/ConsoleApp43.pdb

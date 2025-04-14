@@ -1,0 +1,41 @@
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe.config
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csprojAssemblyReference.cache
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Form1.resources
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Properties.Resources.resources
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.GenerateResource.cache
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.CoreCompileInputs.cache
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+E:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe.config
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.AssemblyReference.cache
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Form1.resources
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Properties.Resources.resources
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.GenerateResource.cache
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.CoreCompileInputs.cache
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+D:/daswkalo/IT/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe.config
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.SuggestedBindingRedirects.cache
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Form1.resources
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Properties.Resources.resources
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.GenerateResource.cache
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+//Mac/Home/Desktop/UNIVERSITY AND SCHOOL/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe.config
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/bin/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.AssemblyReference.cache
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Form1.resources
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4_Game_Ivailo_11A.Properties.Resources.resources
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.GenerateResource.cache
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.csproj.CoreCompileInputs.cache
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.exe
+/Users/ivo.assassinate/Desktop/-/EDUCATION/Информатика/11кл/WindowsFormsApp4-Game-Ivailo 11A/obj/Debug/WindowsFormsApp4-Game-Ivailo 11A.pdb

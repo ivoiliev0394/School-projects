@@ -1,0 +1,7 @@
+E:\daswkalo\IT\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+E:\daswkalo\IT\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+E:\daswkalo\IT\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+E:\daswkalo\IT\ConsoleApp29\obj\Debug\ConsoleApp29.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+E:\daswkalo\IT\ConsoleApp29\obj\Debug\ConsoleApp29.pdb

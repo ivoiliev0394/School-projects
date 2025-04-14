@@ -1,0 +1,11 @@
+E:\daswkalo\IT\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\daswkalo\IT\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\daswkalo\IT\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\daswkalo\IT\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

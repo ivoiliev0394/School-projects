@@ -1,0 +1,15 @@
+E:\daswkalo\IT\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\daswkalo\IT\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\daswkalo\IT\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\daswkalo\IT\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\daswkalo\IT\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+\\Mac\Home\Desktop\UNIVERSITY AND SCHOOL\EDUCATION\Информатика\11кл\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

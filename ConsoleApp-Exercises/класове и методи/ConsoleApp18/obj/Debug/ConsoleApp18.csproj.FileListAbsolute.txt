@@ -1,0 +1,7 @@
+E:\daswkalo\IT\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+E:\daswkalo\IT\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+E:\daswkalo\IT\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+E:\daswkalo\IT\ConsoleApp18\obj\Debug\ConsoleApp18.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+E:\daswkalo\IT\ConsoleApp18\obj\Debug\ConsoleApp18.pdb

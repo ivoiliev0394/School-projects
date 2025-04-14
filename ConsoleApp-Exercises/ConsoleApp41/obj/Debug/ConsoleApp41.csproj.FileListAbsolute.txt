@@ -1,0 +1,7 @@
+E:\daswkalo\IT\ConsoleApp41\bin\Debug\ConsoleApp41.exe.config
+E:\daswkalo\IT\ConsoleApp41\bin\Debug\ConsoleApp41.exe
+E:\daswkalo\IT\ConsoleApp41\bin\Debug\ConsoleApp41.pdb
+E:\daswkalo\IT\ConsoleApp41\obj\Debug\ConsoleApp41.csprojAssemblyReference.cache
+E:\daswkalo\IT\ConsoleApp41\obj\Debug\ConsoleApp41.csproj.CoreCompileInputs.cache
+E:\daswkalo\IT\ConsoleApp41\obj\Debug\ConsoleApp41.exe
+E:\daswkalo\IT\ConsoleApp41\obj\Debug\ConsoleApp41.pdb
